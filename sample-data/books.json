@@ -1,0 +1,32 @@
+{
+"book_id": "978-3-16-148410-0",
+"title": "Example Book",
+"author": "Example Author",
+"avaiable_copies": "25",
+"published_date": "2021-02-01",
+"publisher_id": "123e4567-e89b-12d3-a456-426614174000"
+}
+{
+"book_id": "978-3-16-148420-0",
+"title": "Example Book, Special Edition",
+"author": "Example Author",
+"avaiable_copies": "20",
+"published_date": "2022-05-01",
+"publisher_id": "123e4567-e89b-12d3-a456-426614174000"
+}
+{
+"book_id": "978-3-16-148430-0",
+"title": "Sample Book",
+"author": "Sample Author",
+"avaiable_copies": "15",
+"published_date": "2021-04-12",
+"publisher_id": "123e4567-e89b-12d3-a456-426614174000"
+}
+{
+"book_id": "978-3-16-148440-0",
+"title": "Example Book, Second Edition",
+"author": "Example Author",
+"avaiable_copies": "5",
+"published_date": "2023-02-01",
+"publisher_id": "123e4567-e89b-12d3-a456-426614174000"
+}
